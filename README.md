@@ -16,7 +16,7 @@ The table is generated automatically, but you must create the MySQL database wit
 
 #### Get all tasks
 
-```http
+```api
   GET /api/v1/tasks
 ```
 
