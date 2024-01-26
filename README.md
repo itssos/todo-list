@@ -8,7 +8,7 @@ This project is a simple to-do list API without authentication.
 
 The table is generated automatically, but you must create the MySQL database with the name 'todo-list-api'
 
-```bash
+```sql
   CREATE DATABASE todo_list_api;
 ```
     
